@@ -2,7 +2,7 @@
 	 float: left;
 }
  nav {
-	 float: right;
+	 float: left;
 }
  nav ul {
 	 margin: 0;
@@ -13,11 +13,12 @@
 	 display: inline-block;
 }
  body {
-	 background: #a99090;
-	 color: #fff;
+	 background: rgb(24, 98, 128);
+	 color: rgb(181, 10, 27);
+	 font-size: xx-large;
 }
  a {
-	 color: #808000
+	 color: #0b0b0b
 }
  h1 {
 	 color: #008080
