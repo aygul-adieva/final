@@ -13,7 +13,7 @@
 	 display: inline-block;
 }
  body {
-	 background: rgb(24, 98, 128);
+	background: linear-gradient(to right, #848dbe, #848dbe);
 	 color: rgb(181, 10, 27);
 	 font-size: xx-large;
 }
